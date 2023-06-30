@@ -1,11 +1,11 @@
-About r-clusterses
-==================
+About r-clusterses-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-clusterses-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=clusterSEs
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-clusterses-feedstock/blob/main/LICENSE.txt)
 
 Summary: Calculate p-values and confidence intervals using cluster-adjusted t-statistics (based on Ibragimov and Muller (2010) <DOI:10.1198/jbes.2009.08046>, pairs cluster bootstrapped t-statistics, and wild cluster bootstrapped t-statistics (the latter two techniques based on Cameron, Gelbach, and Miller (2008) <DOI:10.1162/rest.90.3.414>. Procedures are included for use with GLM, ivreg, plm (pooling or fixed effects), and mlogit models.
 
